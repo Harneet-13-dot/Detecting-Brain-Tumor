@@ -4,9 +4,10 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 from PIL import Image
 
+st.set_page_config(page_title="Brain Tumor Detection", page_icon="🧠")
 model = load_model("brain_tumor_model.keras")
-
 st.title("🧠 Brain Tumor Detection")
+
 uploaded_file = st.file_uploader("Upload MRI image", type=["jpg","png","jpeg"])
 
 if uploaded_file is not None:
