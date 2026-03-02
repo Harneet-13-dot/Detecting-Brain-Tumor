@@ -3,7 +3,7 @@
 A Deep Learning web application that detects human emotions from images using a trained CNN model and Streamlit.
 
 ## 🚀 Live Demo
-🔗 https://emotion-classifier-ovovtenmnbemkfeysbyr8.streamlit.app/
+🔗 [https://emotion-classifier-ovovtenmnbemkfeysbyr8.streamlit.app/](https://detecting-brain-tumor-eacuhenhtwxsmih72ynpbh.streamlit.app/)
 
 ---
 
